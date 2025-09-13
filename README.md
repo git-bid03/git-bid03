@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biditaa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 🔭 I’m currently working on [Netflix Content Strategy Profiling using EDA](https://git-bid03.github.io/Netflix_Content_Strategy/)
+- 🔭 I’m currently working on Netflix Content Strategy Profiling using EDA
 
 - 🌱 I’m currently learning **Machine Learning**
 
