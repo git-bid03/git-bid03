@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biditaa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/75e29f43-f86b-47b2-b890-899dbe7017f3">
 
 - 🔭 I’m currently working on [Netflix Content Strategy Profiling using EDA](https://git-bid03.github.io/Netflix_Content_Strategy/)
 
