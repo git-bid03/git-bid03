@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 - 🔭 I’m currently working on <b>Netflix Content Strategy Profiling using EDA</b>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Gen-AI**
 
 - 📫 How to reach me **biditaa060410@gmail.com**
 
